@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**hannah-at/hannah-at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Bio + 💻 Code
 
-Here are some ideas to get you started:
+Bioinformatics enthusiast combining my passion for molecular biology and software development. Currently an undergrad at University of Vienna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### 🎯 Research Interests
+
+- Computational Genomics
+- Systems Biology
+- Machine Learning in Healthcare
+- Synthetic Biology
+- Bioinformatics Algorithms
+
+---
+
+> "The combination of biology and computer science isn't just about analyzing data – it's about understanding life itself through the lens of computation." 
